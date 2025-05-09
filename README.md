@@ -196,7 +196,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Reporting Issues
 
-If you encounter any issues, please report them on the [GitHub Issues](https://github.com/rogeriolaa/reat-use-webworker/issues) page. Provide as much detail as possible, including steps to reproduce the issue.
+If you encounter any issues, please report them on the [GitHub Issues](https://github.com/rogeriolaa/react-use-webworker/issues) page. Provide as much detail as possible, including steps to reproduce the issue.
 
 ## License
 

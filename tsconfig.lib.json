@@ -1,0 +1,21 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "declaration": true,
+    "declarationDir": "./dist",
+    "emitDeclarationOnly": true,
+    "noEmit": false, // Important: allow emit for declaration files
+    "jsx": "react-jsx" // Ensure JSX is handled correctly for React 17+ style
+  },
+  "include": ["src/lib"],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "src/**/*.test.ts",
+    "src/**/*.test.tsx",
+    "src/setupTests.ts",
+    "src/App.tsx",
+    "src/main.tsx"
+  ]
+}
